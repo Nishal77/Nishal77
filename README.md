@@ -93,15 +93,9 @@ Exploring the edge of AI, engineering, and what's possible when both work togeth
 - **Compressing time** — what takes teams a quarter, I ship in a week. What takes a week, I ship in a day. The ceiling keeps moving upward.
 - **Surfing waves that haven't broken yet** — agentic engineering isn't the next trend. It's already the terrain. Most people just haven't looked down yet.
   
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Replaced 3 Junior Devs](https://www.nishalpoojary.dev/blog/ai-agents-replaced-junior-devs)
-- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed/)
-- [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker/)
-- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it/)
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-<!-- BLOG-POST-LIST:END -->
+## Writing
+> Blog coming soon at [nishalpoojary.dev](https://nishalpoojary.dev)
+> Currently writing about: AI systems, system design & building in public.
 
 ## Connect
 
@@ -158,7 +152,7 @@ Exploring the edge of AI, engineering, and what's possible when both work togeth
 
 > *"I don't build to prove I can. I build because the gap between what exists and what should exist is too obvious to ignore."*
 
-Every project is an argument I'm making to the world the product is just how I phrase it. I think at the system level, execute at speed, and ship before I'm ready, because waiting for ready is just fear with better posture.
+Every project is an argument I'm making to the world the product is just how I phrase it — I think at the system level, execute at speed, and ship before I'm ready, because waiting for ready is just fear with better posture.
 
 Currently obsessed with the exact moment AI and engineering stop being two separate conversations.
 
@@ -166,10 +160,10 @@ Currently obsessed with the exact moment AI and engineering stop being two separ
 <summary>Random facts — current state of mind</summary>
 
 - Directing 3 AI agents instead of writing code and shipping faster than I ever did writing it myself
-- The ideas list has 47 items. The done list has 3. The gap is called "being a builder in 2025."
+- The ideas list has 47 items. The done list has 3. The gap is called "being a builder in 2026."
 - Currently at the phase where every new AI release makes me rethink my architecture before breakfast
 - Genuinely cannot tell if I'm learning faster than the tools are changing — it's close either way
-- The gap between what one person can build today vs two years ago is the size of a entire startup team
+- The gap between what one person can build today vs two years ago is the size of an entire startup team
 - Building in public. Anxious in private. Shipping anyway.
 - Has a folder called `someday_maybe/` with 23 project ideas that are lowkey better than half of what's on Product Hunt
 - Opens 12 tabs to research one thing. Closes all 12 without reading any. Figures it out anyway.

@@ -1,8 +1,10 @@
 # Hi, I'm Nishal Poojary 👋
 
-Some people consume technology. I prefer building it. | **Full-Stack Engineer • Systems Builder • AI Explorer** |  📍 **Mangalore ↔ India** 
+Some people consume technology. I prefer building it. | **Full-Stack Engineer • Systems Builder • Applied AI** |  📍 **Mangalore ↔ India** 
 
-Exploring the edge of AI, engineering, and what's possible when both work together. Currently focused on creating intelligent software that automates workflows, solves real-world problems, and scales efficiently. Seeking opportunities to build impactful products with world class engineering teams.
+I design and build intelligent software, developer tools, and automation platforms that solve real business problems. My focus is clean architecture, scalable systems, and AI-powered experiences that move beyond demos into production.
+
+I believe great software isn't measured by how much code it contains, but by how effectively it solves a problem.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
